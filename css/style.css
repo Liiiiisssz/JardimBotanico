@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#medicinais{
+    color: green;
+}
+
+#ornamentais{
+    color: purple;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2 a{
+    color: darkorange;
+}
+
+p{
+    font-size: 18px;
+}
+
+.tituloOrnamentais{
+    color: purple;
+}
+
+.tituloMedicinais{
+    color: green;
+}
